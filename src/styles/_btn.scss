@@ -1,0 +1,9 @@
+.btn {
+  padding: $p-2;
+  font-size: $fz-16;
+
+  &__add {
+    background-color: $color-green;
+    color: $color-white;
+  }
+}
